@@ -7,5 +7,5 @@ function happyHolidays(christmas){
   }
 function happyCustomHolidayTo(holiday, name){
   var holiday = "Independence Day";
-  return(`Happy ${holiday},${name}!`)
+  return(`Happy ${holiday}, ${name}!`)
 }
